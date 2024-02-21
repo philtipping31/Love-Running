@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-As a "Role" I can "Capability" so that "received beneefit"
+As a "Role" I can "Capability" so that "received benefit"
